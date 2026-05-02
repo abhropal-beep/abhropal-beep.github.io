@@ -2,41 +2,34 @@
 
 *May 2, 2026*
 
-I have been thinking about how work is changing,  not in the abstract "future of work" way, but concretely. What does a Monday morning look like for a product management lead ,business planning lead, finance lead, or a strategy lead six months from now? I think the shift happens along three axes.
+Last week I built a full pricing analysis for a product I work on. Revenue models, customer segmentation by tier, scenario comparisons, interactive charts. Then I built UX mocks for what the new pricing page could look like. Normally that's a finance partner, a data analyst, a designer, probably two weeks. I did it in a day with an agent.
 
----
+I keep coming back to that. Here's what I think is actually happening.
 
 ## 1. Everyone becomes full-stack
 
-The proof of work is no longer a document or slides or excel sheets,  It's a functioning prototype.
+The proof of work used to be a document. Now it's a working prototype.
 
+I'm in a business planning function. My old proof of work was a Word doc and getting the right people aligned in meetings. Now I'm expected to know the engineering constraints of what I'm recommending, know what the UX should feel like, and have a financial model ready. Not "here's my recommendation, someone go build it" but "here's my recommendation, and here it is working."
 
+You build the mockup. You build the model. The plan includes a prototype, a UX flow, and a financial model. Same person.
 
-This applies just as much to business functions. Say you'are a business planning lead accountable for pricing and packaging. Your old proof of work was a word doc and stakeholder and executive alignment meetings. Now? You are  expected to understand the end-to-end system. If you're recommending a new pricing model, what are the engineering constraints? If you are proposing a new purchase path, what's the user experience? What's the financial impact? Instead of handing a brief to design, you build the mockup yourself, build the intial TAM /fianncial model yourself (via agents). And instead of waiting on finance to build the model, you prompt your agent and have a custom revenue model in minutes. The business plan now includes a prototype, a UX flow, and a financial model — all built by the same person.
-If you're a product manager, you are already expected to build mockups — so you're a part-time designer. You're expected to ship an MVP, so you double up as a developer. The PM who can only write PRDs and coordinate meetings is going to feel increasingly out of place.
+Side effect: orgs get flatter. When one person does what used to take three, you need fewer layers. The middle of the org chart compresses. Though mentorship and career development still need humans. Flat orgs have to work harder at that.
 
-## 2. Organizations flatten
+## 2. Jobs stay. Tasks don't.
 
-The traditional org chart is a tree: one executive, a few directors, managers managing less htan 10 reports each, all the way down. That structure exists because humans have limited bandwidth and you need layers to process information and coordinate work.
+Customers want good products at low prices. They compare you to competitors. You need to set prices, manage margins, train the field. That's been true for decades and AI doesn't change it.
 
-Agents break that constraint. Instead of a manager managing 10  people, you get one executive with multiple direct reports, each working with multiple agents. The information processing that required three layers of humans can now be done by one person and their agents.
+What changes is how you get there.
 
-There is  less information asymmetry too. Not in the "everyone sees everything" sense — security boundaries still matter. But within those boundaries, an agent can surface what you need to know without someone in the middle synthesizing and forwarding. The "I didn't know that was happening" problem shrinks dramatically.
+Competitive analysis that took a week? Afternoon. Quarterly planning model that needed a finance partner and three rounds? One session. Sales enablement materials? You just generate them.
 
-You still need some management chain because you still need scale — but not to the extent we had in the pre-agent era. The org gets wider and shorter.
+What's left is the actual hard part. Deciding what to do, getting people on board, understanding what customers actually need. Turns out that was always the job. We just spent most of our time on the tasks around it.
 
-## 3. Jobs stay the same. Tasks change.
+## So what
 
-The *jobs* people do are actually quite stable over time. Customers will always want high quality products at lower prices. They will always compare you against competitors. You will always need to set prices, manage margins, set expectations, and train the field. None of that changes with AI.
+I went from "I need pricing data" to a full scenario model with customer breakdowns and a working pricing page mock, without asking another team for anything. Not a deck requesting someone go build it. The thing itself.
 
-What changes is the *tasks* required to do those jobs.
+I think the people who do well from here are the ones who stop seeing themselves as "the person who defines requirements" and start being "the person who builds the first version."
 
-Need sales enablement assets? Those get generated. Executive presentation? The slide quality will match a seasoned management consultant — and it'll be customized for the specific exec you're presenting to. That one's basically already here, just not quite polished yet.
-
-So the focus shifts from "how do I produce this artifact" to "what outcome am I trying to drive." In a business planning function, that means: alignment, strategy, optimizing for the company's maximum (not individual temas ), being laser focused on customer needs while balancing the business.
-
-The upshot? Faster decisions. Fewer artifacts produced for the sake of process. More time spent on the things that actually require human judgment.
-
----
-
-I think we're already living in version 0.5 of this world. The question isn't whether it happens — it's how fast you adapt to it.
+Pick something you'd normally hand off. Do it yourself with an agent. See what happens.
